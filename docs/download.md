@@ -1,5 +1,0 @@
-#Software Download
-
-##Ruptel
-
-##IDS
